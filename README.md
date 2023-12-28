@@ -1,4 +1,1 @@
-"# vitalab" 
-"# vitalab" 
-"# vitalab" 
-"# vitalab" 
+Seguindo o tutorial da aplicação Vitalab do PSW8, https://pythonando.com.br/
