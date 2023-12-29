@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: vitalab
+    buildCommand: "./build.sh"
+    env: python
+    startCommand: "gunicorn vitalab.wsgi:application"
+    
